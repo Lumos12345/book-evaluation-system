@@ -1,0 +1,12 @@
+# Java 构建产物
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+
+# 系统文件
+Thumbs.db
+.DS_Store
